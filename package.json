@@ -1,0 +1,23 @@
+{
+  "name": "googlematrix-api",
+  "version": "1.0.0",
+  "description": "A simple command line application that consumes Google's Matrix API using a HTTP client library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vynessa/googlematrix-api.git"
+  },
+  "author": "Vanessa EJikeme\u001b[D\u001b[D\u001b[D\u001b[D\u001b[j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vynessa/googlematrix-api/issues"
+  },
+  "homepage": "https://github.com/Vynessa/googlematrix-api#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.6",
+    "request": "^2.79.0"
+  }
+}
